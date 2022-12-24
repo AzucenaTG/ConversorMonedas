@@ -18,4 +18,4 @@
 <img src="https://i.blogs.es/53044d/java/1366_521.jpg">
 </p>
 
-<p align="center">Realizado por Maria Azucena Torres Gorlero</p>
+<p align="center"> copyright © Maria Azucena Torres Gorlero</p>
